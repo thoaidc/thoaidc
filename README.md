@@ -1,4 +1,4 @@
-<h2 style="font-family: Consolas, serif; color: aqua; font-size: 36px; margin-bottom: -10px">Hi👋, I'm Công Thoại</h2>
+<h1 style="font-family: Consolas, serif; color: aqua; font-size: 36px; margin-bottom: -10px">Hi👋, I'm Công Thoại</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+backend+web+developer)](https://git.io/typing-svg)
 
@@ -11,8 +11,9 @@
 
 ⚡️ Fun fact: I once spent several days tracking down a single bug 🙂
 
+###
 
-<h3 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: orange">My skills</h3>
+<h1 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: orange">My skills</h1>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -80,10 +81,14 @@
   </a>
 </p>
 
-<h3 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: pink">My contributions</h3>
+###
+
+<h1 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: pink">My contributions</h1>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thoaidc&theme=holi-theme&border_radius=16&date_format=j%20M%5B%20Y%5D" alt=""/><br/>
+
+####
 
   <div style="display: flex; gap: 16px; justify-content: center; width: 100%; padding: 32px">
     <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=thoaidc&theme=holi&show_icons=truecount_private=true&hide=issues" alt=""/>
