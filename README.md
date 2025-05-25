@@ -11,9 +11,12 @@
 
 ⚡️ Fun fact: I once spent several days tracking down a single bug 🙂
 
-###
 
-<h1 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: orange">My skills</h1>
+<br/>
+<br/>
+<h1 align="center" style="font-family: Consolas, serif; font-size: 30px;">My skills</h1>
+
+<br/>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -81,14 +84,16 @@
   </a>
 </p>
 
-###
+<br/>
+<br/>
 
-<h1 align="center" style="font-family: Consolas, serif; font-size: 30px; margin-bottom: 36px; color: pink">My contributions</h1>
+<h1 align="center" style="font-family: Consolas, serif; font-size: 30px;">My contributions</h1>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thoaidc&theme=holi-theme&border_radius=16&date_format=j%20M%5B%20Y%5D" alt=""/><br/>
-
-####
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thoaidc&theme=holi-theme&border_radius=16&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <br/>
+  <br/>
 
   <div style="display: flex; gap: 16px; justify-content: center; width: 100%; padding: 32px">
     <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=thoaidc&theme=holi&show_icons=truecount_private=true&hide=issues" alt=""/>
@@ -96,4 +101,5 @@
   </div>
 </div>
 
+<br/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thoaidc&label=Views&color=0e75b6&style=flat" alt=""/></p>
