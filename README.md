@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=thoaidc&theme=radical)
+  <img src="https://git-hub-streak-stats.vercel.app?user=thoaidc&theme=radical"/>
   <br/>
   <br/>
 
