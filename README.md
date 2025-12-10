@@ -36,13 +36,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </p>
 
-<!-- <br/>
+<br/>
 <br/>
 <h1 align="center" style="font-family: Consolas, serif; font-size: 30px;">My contributions</h1>
-<br/> -->
+<br/>
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app?user=](https://github-readme-stats.vercel.app/api?username=thoaidc)" alt=""/>
+  ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=thoaidc&theme=radical)
   <br/>
   <br/>
 
