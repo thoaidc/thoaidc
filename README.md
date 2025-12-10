@@ -36,13 +36,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </p>
 
-<br/>
+<!-- <br/>
 <br/>
 <h1 align="center" style="font-family: Consolas, serif; font-size: 30px;">My contributions</h1>
-<br/>
+<br/> -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thoaidc&theme=holi-theme&border_radius=16&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="[https://github-readme-stats.vercel.app?user=](https://github-readme-stats.vercel.app/api?username=thoaidc)" alt=""/>
   <br/>
   <br/>
 
