@@ -42,7 +42,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=thoaidc&theme=radical"/>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=thoaidc&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
   <br/>
   <br/>
 
